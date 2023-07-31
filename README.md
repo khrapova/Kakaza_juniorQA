@@ -22,7 +22,7 @@ SoapUI, Chrome DevTools.
 - Предоставила отчеты по тестированию, включающие скриншошы тест-ранов по разным видам тестирования
 - Добавила выводы по итогам тестирования: какие баги были найдены,какие потребности стейкхолдеров закрываются, над чем стоит еще поработать перед выпуском продукта
 
-ссылка на проект: [Проект1]([https://www.notion.so/1-Skyeng-ru-dc6849fe3b104589a403f440be180841?pvs=12](https://rainy-address-ef4.notion.site/1-Skyeng-ru-dc6849fe3b104589a403f440be180841)https://rainy-address-ef4.notion.site/1-Skyeng-ru-dc6849fe3b104589a403f440be180841)
+ссылка на проект: [Проект1](https://rainy-address-ef4.notion.site/1-Skyeng-ru-dc6849fe3b104589a403f440be180841)
 
 ## Контактная информация: 
 - email e.o.khrapova@yandex.ru

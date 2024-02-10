@@ -6,8 +6,7 @@
 В этом репозитории можно ознакомиться с моими работами и проектами за время обучения в университете Skypro.
 
 ## Навыки и технологии
-Jira,qase.io,SQL, Postman,Swagger, Trello,
-SoapUI, Chrome DevTools.
+Jira,qase.io,SQL, Postman,Swagger, Trello, Chrome DevTools.
 
 ## Проекты: 
 ### Проект 1. Тестирование личного кабинета преподователя Skyeng.ru
@@ -32,7 +31,14 @@ SoapUI, Chrome DevTools.
 - Провела функциональное тестирование, тестирование производительности
 - Передала полученные данные в виде отчета, включающие скрин-касты тестирования, разработчикам
 
-  [Благодарность](https://drive.google.com/file/d/1JfGxO2qRhi7f2sj4ifCbkKEJX-Bo2GW_/view?usp=sharing)
+  [Сертификат о тестировании телеграм-бота](https://drive.google.com/file/d/1JfGxO2qRhi7f2sj4ifCbkKEJX-Bo2GW_/view?usp=sharing)
+  
+  [Сертификат о тестировании цифрового продукта на базе Android](https://drive.google.com/file/d/1YzrajPiSQ_nGb-jeVS5RDrqf8vZVD4ez/view?usp=drive_link)
+  
+  [Сертификат о тестировании системы быстрых платежей](https://drive.google.com/file/d/15RZk010wgOuk-f7wQqodFq6iCtSO_F0x/view?usp=sharing)
+  
+  
+
 
 
 ## Контактная информация: 
